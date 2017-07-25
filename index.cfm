@@ -49,15 +49,7 @@
             </div>
           </div> 
       </div>
-      
-      <!---<section id="y-single_info">
-        <div class="y-single_info">
-          <div class="container">
-            
-          </div>
-        </div>
-      </section>--->
-      
+
       <section id="y-boat_type">
      <div class="y-boat_type">
       <div class="container">
